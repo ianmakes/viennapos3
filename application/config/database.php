@@ -63,7 +63,7 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'srv1851.hstgr.io',
+	'hostname' => 'localhost',
 	'username' => 'u826514770_viennapos3',
 	'password' => 'mE4sU3h',
 	'database' => 'u826514770_viennapos3',
