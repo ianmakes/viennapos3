@@ -3,7 +3,7 @@ ini_set('display_errors', 1);
 ini_set('display_startup_errors', 1);
 error_reporting(E_ALL);
 
-$servername = "localhost";
+$servername = "srv1851.hstgr.io";
 $username = "u826514770_viennapos3";
 $password = "mE4sU3h";
 $dbname = "u826514770_viennapos3";
