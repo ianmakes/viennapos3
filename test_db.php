@@ -3,7 +3,7 @@ ini_set('display_errors', 1);
 ini_set('display_startup_errors', 1);
 error_reporting(E_ALL);
 
-$servername = "127.0.0.1";
+$servername = "localhost";
 $username = "u826514770_viennapos3";
 $password = "mE4sU3h";
 $dbname = "u826514770_viennapos3";
